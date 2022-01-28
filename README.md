@@ -1,0 +1,2 @@
+# dataBarang
+Syarat UAS
